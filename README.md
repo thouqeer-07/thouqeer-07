@@ -24,13 +24,11 @@
 </a>
 
 <br><br>
-
 <img src="https://komarev.com/ghpvc/?username=thouqeer-07&label=Profile%20Views&style=flat-square&color=D4AF37"/>
 <img src="https://img.shields.io/github/followers/thouqeer-07?style=flat-square&logo=github&color=181717"/>
 <img src="https://img.shields.io/github/stars/thouqeer-07?style=flat-square&logo=github&color=D4AF37"/>
-
 <br><br>
 
-<i>"Code • Learn • Build • Repeat"</i>
+### ✨ Code • Learn • Build • Repeat
 
 </div>
