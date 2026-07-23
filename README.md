@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=32&duration=1500&pause=300&color=D4AF37&center=true&vCenter=true&width=900&lines=Welcome+to+My+GitHub+Profile;Syed+Thouqeer+Ahmed+A;AI+%26+Data+Science+Student;Building+Intelligent+Solutions" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=32&duration=2000&pause=900&color=D4AF37&center=true&vCenter=true&width=900&lines=Welcome+to+My+GitHub+Profile;Syed+Thouqeer+Ahmed+A;AI+%26+Data+Science+Student;Building+Intelligent+Solutions" alt="Typing SVG" />
 
 <br><br>
 
@@ -16,22 +16,22 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/syed-thouqeer-ahmed-a-8359b9301" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="36" alt="LinkedIn"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" height="34" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;
 
   <a href="mailto:thouqeerahmed07@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="36" alt="Gmail"/>
+    <img src="https://skillicons.dev/icons?i=gmail" height="34" alt="Gmail"/>
   </a>
   &nbsp;&nbsp;
 
   <a href="https://github.com/thouqeer-07" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" height="36" alt="GitHub"/>
+    <img src="https://skillicons.dev/icons?i=github" height="34" alt="GitHub"/>
   </a>
   &nbsp;&nbsp;
 
-  <a href="thouqeer.netlify.app" target="_blank">
-    <img src="https://skillicons.dev/icons?i=wordpress" height="36" alt="Portfolio"/>
+  <a href="https://thouqeer.netlify.app" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/domain.png" height="34" alt="Portfolio"/>
   </a>
 </p>
 
